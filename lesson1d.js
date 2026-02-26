@@ -41,3 +41,4 @@ console.log("Student Last Name:", student['lastName']);
 // Using bracket notation
 console.log(typeof(student));
 
+
